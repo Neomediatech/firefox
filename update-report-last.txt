@@ -1,4 +1,4 @@
-mar 10 feb 2026, 11:57:31, CET --- ghcr.io/neomediatech/firefox:24.04 done (image build needed: true)
-mar 10 feb 2026, 11:59:05, CET --- ghcr.io/neomediatech/firefox:20.04 done (image build needed: true)
-mar 10 feb 2026, 11:59:07, CET --- ghcr.io/neomediatech/firefox:22.04 done (image build needed: true)
-mar 10 feb 2026, 11:59:34, CET --- ghcr.io/neomediatech/firefox:latest done (image build needed: true)
+lun 22 giu 2026, 18:57:14, CEST --- ghcr.io/neomediatech/firefox:24.04 done (image build needed: true)
+lun 22 giu 2026, 18:58:46, CEST --- ghcr.io/neomediatech/firefox:20.04 done (image build needed: true)
+lun 22 giu 2026, 18:59:45, CEST --- ghcr.io/neomediatech/firefox:latest done (image build needed: true)
+lun 22 giu 2026, 19:00:10, CEST --- ghcr.io/neomediatech/firefox:22.04 done (image build needed: true)
